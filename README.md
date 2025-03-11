@@ -1,6 +1,6 @@
-This is a template project for Spring Boot applicationsin Codeanywhere.
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/spring-boot)
 
-[Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/spring-boot)
+This is a template project for Spring Boot applications in [Codeanywhere](https://codeanywhere.com/). [Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/spring-boot)
 
 ### Running the project
 
